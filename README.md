@@ -1,2 +1,2 @@
 # aggreg_news
-A news aggregator app
+A Django app that aggregates news from different websites, and also enables to post news articles.
